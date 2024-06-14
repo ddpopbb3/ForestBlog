@@ -1,5 +1,6 @@
 最新消息，博主已开通B站账号：[Java刘哥](https://space.bilibili.com/160340478)
 ## 博主开发的其他博客或论坛项目全部在这里
+**[全部原创项目](https://liuyanzhao.com/shop.html)**   <br/>
 **[https://liuyanzhao.com/shop.html?k=博客](https://liuyanzhao.com/shop.html?k=博客)**   <br/>
 **[https://liuyanzhao.com/shop.html?k=论坛](https://liuyanzhao.com/shop.html?k=论坛)** 	<br/>
 - ------------------------------------------------------------
@@ -9,7 +10,7 @@
 
 主要涉及技术包括的包括 Maven、Spring、SpringMVC、MyBatis、JSP、MySQL等。 <br/>
 详细介绍：[https://liuyanzhao.com/6347.html](https://liuyanzhao.com/6347.html) <br/>
-预览地址 [http://forestblog.liuyanzhao.com](http://forestblog.liuyanzhao.com) <br/>
+预览地址：[http://forestblog.liuyanzhao.com](http://forestblog.liuyanzhao.com) <br/>
 
 前台效果图  <br/>
 ![image](uploads/home.png)
