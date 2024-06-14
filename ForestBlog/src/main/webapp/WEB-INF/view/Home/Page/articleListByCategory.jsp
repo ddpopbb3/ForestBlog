@@ -155,4 +155,3 @@
     <%--  博客主体-左侧正文 end--%>
 </rapid:override>
 
-<%@ include file="../Public/framework.jsp" %>

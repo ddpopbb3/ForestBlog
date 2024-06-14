@@ -46,4 +46,3 @@ public interface MenuMapper {
      * @return 列表
      */
     List<Menu> listMenu() ;
-}

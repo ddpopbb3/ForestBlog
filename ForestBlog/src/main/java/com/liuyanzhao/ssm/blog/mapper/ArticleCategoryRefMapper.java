@@ -67,4 +67,3 @@ public interface ArticleCategoryRefMapper {
      */
     List<Category> listCategoryByArticleId(Integer articleId);
 
-}

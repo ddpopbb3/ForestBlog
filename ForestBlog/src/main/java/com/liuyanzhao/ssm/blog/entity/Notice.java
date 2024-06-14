@@ -25,4 +25,3 @@ public class Notice implements Serializable{
     private Integer noticeStatus;
 
     private Integer noticeOrder;
-}

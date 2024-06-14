@@ -58,4 +58,3 @@ public interface LinkMapper {
      * @return  列表
      */
     List<Link> listLink(@Param(value = "status") Integer status);
-}

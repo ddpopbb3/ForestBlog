@@ -60,4 +60,3 @@ public interface PageMapper {
      */
     Page getPageByKey(@Param(value = "status") Integer status,
                       @Param(value = "key") String key);
-}

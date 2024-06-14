@@ -220,4 +220,3 @@ public interface ArticleMapper {
      * @return
      */
     List<Integer> listArticleIdsByUserId(Integer userId);
-}

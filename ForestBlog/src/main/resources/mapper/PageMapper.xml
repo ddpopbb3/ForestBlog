@@ -84,4 +84,3 @@
       page_key=#{key}
     </where>
   </select>
-</mapper>

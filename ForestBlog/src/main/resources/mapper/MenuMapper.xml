@@ -54,4 +54,3 @@
     FROM <include refid="tb"/>
     ORDER BY menu_order DESC, menu_id ASC
   </select>
-</mapper>

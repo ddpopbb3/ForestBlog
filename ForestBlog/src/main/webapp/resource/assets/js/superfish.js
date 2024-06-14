@@ -33,4 +33,3 @@ $(document).ready(function(){
 		$.sidr('close', 'sidr-main');
 		return false;
 	});
-});

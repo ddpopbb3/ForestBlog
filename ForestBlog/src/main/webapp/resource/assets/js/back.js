@@ -213,4 +213,3 @@ layui.use(['form', 'layedit', 'laydate'], function () {
     form.on('submit(demo1)', function (data) {
         return true;
     });
-});

@@ -108,4 +108,3 @@ public interface CommentMapper {
      * @return 影响函数
      */
     Integer deleteByArticleId(Integer articleId);
-}

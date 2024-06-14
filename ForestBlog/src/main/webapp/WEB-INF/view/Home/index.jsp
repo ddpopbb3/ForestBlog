@@ -141,4 +141,3 @@
 </rapid:override>
 <%--友情链接 end--%>
 
-<%@ include file="Public/framework.jsp" %>

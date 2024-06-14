@@ -67,4 +67,3 @@ public interface NoticeMapper {
      * @return 公告列表
      */
     List<Notice> listNotice(@Param(value = "status") Integer status);
-}

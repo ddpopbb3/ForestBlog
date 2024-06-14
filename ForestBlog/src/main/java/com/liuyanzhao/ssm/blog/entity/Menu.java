@@ -22,4 +22,3 @@ public class Menu implements Serializable {
 
     private Integer menuOrder;
 
-}

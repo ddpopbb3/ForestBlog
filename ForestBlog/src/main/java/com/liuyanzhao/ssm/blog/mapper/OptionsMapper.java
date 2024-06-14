@@ -45,4 +45,3 @@ public interface OptionsMapper {
      * @return 系统信息
      */
     Options getOptions();
-}

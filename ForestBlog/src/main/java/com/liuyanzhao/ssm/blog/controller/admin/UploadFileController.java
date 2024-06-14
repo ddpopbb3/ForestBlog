@@ -90,4 +90,3 @@ public class UploadFileController {
         uploadFileVO.setSrc(fileUrl);
         return new JsonResult().ok(uploadFileVO);
     }
-}

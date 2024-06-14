@@ -8,4 +8,3 @@ $(document).ready(function() {
     $('#content .all-sidebar').theiaStickySidebar({
         additionalMarginTop: 0
     });
-});

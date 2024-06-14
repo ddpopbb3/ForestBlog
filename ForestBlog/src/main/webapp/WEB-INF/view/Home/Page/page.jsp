@@ -74,4 +74,3 @@
 </rapid:override>
 <%--侧边栏 end--%>
 
-<%@ include file="../Public/framework.jsp" %>

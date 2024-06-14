@@ -48,4 +48,3 @@ public class Article implements Serializable{
 
     private List<Category> categoryList;
 
-}

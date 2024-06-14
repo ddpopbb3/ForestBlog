@@ -52,4 +52,3 @@ public class Comment implements Serializable {
      * 非数据库字段
      */
     private Article article;
-}

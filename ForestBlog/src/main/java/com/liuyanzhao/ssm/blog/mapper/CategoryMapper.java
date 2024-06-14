@@ -76,4 +76,3 @@ public interface CategoryMapper {
      * @return 分类
      */
     Category getCategoryByName(String name);
-}

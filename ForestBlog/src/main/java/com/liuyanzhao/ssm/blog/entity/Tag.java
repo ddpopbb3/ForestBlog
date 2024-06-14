@@ -34,4 +34,3 @@ public class Tag implements Serializable{
         this.tagDescription = tagDescription;
         this.articleCount = articleCount;
     }
-}

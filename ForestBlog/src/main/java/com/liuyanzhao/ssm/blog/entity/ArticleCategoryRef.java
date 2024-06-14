@@ -25,4 +25,3 @@ public class ArticleCategoryRef implements Serializable{
         this.articleId = articleId;
         this.categoryId = categoryId;
     }
-}

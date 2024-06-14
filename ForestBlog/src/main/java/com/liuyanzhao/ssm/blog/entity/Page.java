@@ -30,4 +30,3 @@ public class Page implements Serializable{
 
     private Integer pageStatus;
 
-}

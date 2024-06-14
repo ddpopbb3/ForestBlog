@@ -92,4 +92,3 @@
         WHERE category_name=#{value}
         limit 1
     </select>
-</mapper>

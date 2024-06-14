@@ -36,4 +36,3 @@ public class Link  implements Serializable{
 
     private Integer linkStatus;
 
-}

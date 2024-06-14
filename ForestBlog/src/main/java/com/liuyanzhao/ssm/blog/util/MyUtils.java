@@ -88,4 +88,3 @@ public class MyUtils {
         return avatar;
     }
 
-}

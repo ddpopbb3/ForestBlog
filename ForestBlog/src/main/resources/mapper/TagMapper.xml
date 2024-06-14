@@ -65,4 +65,3 @@
     WHERE tag_name=#{value}
     limit 1
   </select>
-</mapper>
